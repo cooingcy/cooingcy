@@ -1,11 +1,21 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-<link href="https://fonts.googleapis.com/css2?family=Sedgwick+Ave+Display&display=swap" rel="stylesheet">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6b31e8&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Matheus+Curci+Romano;I'm+16+years+old;I+am+from+São+Paulo,+SP;I+study+systems+development+at+ETEC+da+ZONA+LESTE;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<p style="color: #1E90FF; font-family: 'Sedgwick Ave Display', cursive; font-size: 3em"> Olá eu sou o Matheus 👋🏽</p>
+<div>
+    <div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=cooingcy&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Curci Romano github stats" /> 
+ <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cooingcy&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cooingcy&bg_color=000000&color=7d4de3&line=25a8db&point=aed8e8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=cooingcy&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
 
 
-#### Redes sociais:
+## Redes sociais:
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_cooingcr/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/CooingXz)
@@ -13,12 +23,7 @@
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/cooingcr)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCtYIQINwoyZ62bDVOmtZX5A)
 
-
-![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=cooingcy&show_icons=true&theme=transparent)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cooingcy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-## Tecnologias que eu uso
+## Tecnologias
 
 <div style="display: inline_block">
     <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -34,10 +39,9 @@
 </div>
 <br>
 
-<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="mtc07" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/mtc07?trk=profile-badge">Matheus Romano</a></div>
-              
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{cooingcy}/count.svg" /></p> 
+<br></div>
 
-Atualmente estou estudando programação e design. Sou apaixonado por tecnologia!!
-
-### Contato:
-- [email](matheuscurciromano@gmail.com)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
