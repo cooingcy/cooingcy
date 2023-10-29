@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+
 <link href="https://fonts.googleapis.com/css2?family=Sedgwick+Ave+Display&display=swap" rel="stylesheet">
 
 <p style="color: #1E90FF; font-family: 'Sedgwick Ave Display', cursive; font-size: 3em"> Olá eu sou o Matheus 👋🏽</p>
