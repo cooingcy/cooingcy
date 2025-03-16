@@ -5,8 +5,10 @@
 <div>
     <div align="center">  
   <img width="41%" height="200px" src="https://github-readme-stats.vercel.app/api?username=cooingcy&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage](https://github-readme-stats.vercel.app/api?username=cooingcy&show_icons=true&theme=radical" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cooingcy&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
+    <div> 
+      <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cooingcy&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+    </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cooingcy&bg_color=000000&color=7d4de3&line=25a8db&point=aed8e8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
