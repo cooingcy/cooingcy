@@ -3,7 +3,7 @@
 
 #
 
-![Preview](./assets/header.gif)
+<img src="./src/header.gif" width="500"/>
 
 #
 
