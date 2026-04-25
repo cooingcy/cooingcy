@@ -1,8 +1,6 @@
 name: Generate Snake Animation
 
 on:
-  schedule:
-    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
@@ -15,12 +13,11 @@ jobs:
         with:
           github_user_name: cooingcy
           outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            &color_snake=gradient#1E3A8A-0.3-#3B82F6-0.7-#60A5FA-1.0
-            &color_dots=#2d333b,#3d444d,#4d5562,#5d6677,#6e7c91
+            dist/ocean.svg?color_snake=gradient#1E3A8A-0.3-#3B82F6-0.7-#60A5FA-1.0
+            dist/ocean-dark.svg?color_snake=gradient#1E3A8A-0.3-#3B82F6-0.7-#60A5FA-1.0
+            &color_dots=#0ea5e9,#0284c7,#0369a1,#0c4a6e
 
-      - name: Push to output branch
-        uses: peaceiris/actions-gh-pages@v4
+      - uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: output
