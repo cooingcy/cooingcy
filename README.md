@@ -20,49 +20,42 @@
 
 #
 
-<h3 align="left">My Stacks: </h3>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="25" alt="tailwindcss logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="25" alt="typescript logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="react logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="python logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="25" alt="nodejs logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="mysql logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="25" alt="sqlite logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="25" alt="mongodb logo" />
-  <img width="8" />
+<h3 align="left">Stacks: </h3>
+<div align="left" style="display: inline_block">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" alt="HTML logo">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" alt="CSS logo">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg" alt="TailwindCSS logo">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" alt="JavaScript logo">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" alt="TypeScript logo">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" alt="Java logo">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" alt="React logo">
+
+  
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Firebase-Dark.svg" alt="Firebase logo">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" alt="MySQL logo">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg" alt="MongoDB logo">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/SQLite.svg" alt="SQLite logo">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" alt="NodeJS logo">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expo/expo-original.svg" height="25" alt="expo logo" />
 </div>
 
 
 <h3 align="left">Design: </h3>
-<div align="left">
-  <img src="https://cdn.simpleicons.org/blender" height="25" alt="Blender logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg" height="25" />        
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" height="25" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-original.svg" height="25" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg" height="25" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="25" />
+<div align="left" style="display: inline_block">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AfterEffects.svg" alt="AfterEffects logo">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Blender-Dark.svg" alt="Blender logo">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg" alt="Figma-Dark logo">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Illustrator.svg" alt="Illustrator logo">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Photoshop.svg" alt="Photoshop logo">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Premiere.svg" alt="Premiere logo">
+</div>
+
+
+<h3 align="left">Develop: </h3>
+<div align="left" style="display: inline_block">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/UnrealEngine.svg" alt="UnrealEngine logo">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/RobloxStudio.svg" alt="RobloxStudio logo">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/DiscordBots.svg" alt="DiscordBots logo">
 </div>
 
 #
